@@ -1,0 +1,23 @@
+
+---
+
+### **2. 23_APINetworkTrace**  
+**Description:**  
+Scans multiple API environments for status, latency, and uptime performance over time.
+
+#### **README.md**
+```markdown
+# APINetworkTrace - Multi-Environment Endpoint Monitor
+
+APINetworkTrace helps monitor global or segmented API infrastructures and track real-time metrics.
+
+## Features
+- Logs response time + status code  
+- Optional JSON export  
+- Retry + timeout support  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_APINetworkTrace.git
+cd 23_APINetworkTrace
+python monitor.py
