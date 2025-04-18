@@ -1,0 +1,23 @@
+
+---
+
+### **4. 23_RealTimeGraphStream**  
+**Description:**  
+Visualizes incoming numeric data as a real-time, scrollable graph with smooth updates.
+
+#### **README.md**
+```markdown
+# RealTimeGraphStream - Live Metric Stream Visualizer
+
+RealTimeGraphStream transforms numerical input from scripts, sensors, or APIs into smooth, animated graphs.
+
+## Features
+- Scrollable line chart  
+- Adjustable speed  
+- Lightweight interface  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_RealTimeGraphStream.git
+cd 23_RealTimeGraphStream
+python visualize.py
